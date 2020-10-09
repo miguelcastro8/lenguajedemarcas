@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cartelera>
+    <pelicula resumen="comedia" nombre="x" sala="1" director="pedro">
+        <sesiones>
+            <sesion="3:00"/>
+            <sesion="4:00"/>
+            <sesion="5:00"/>
+        </sesiones>
+        <protagonistas>
+            <protagonista="Manuel"/>
+            <protagonista="pepe"/>
+        </protagonistas>
+    </pelicula>
+    <pelicula resumen="terror" nombre="x2" sala="2" director="paco">
+        <sesiones>
+            <sesion="6:00"/>
+            <sesion="7:00"/>
+            <sesion="8:00"/>
+        </sesiones>
+        <protagonistas>
+            <protagonista="Inma"/>
+            <protagonista="Maria"/>
+        </protagonistas>
+    </pelicula>
+    <pelicula resumen="accion" nombre="x3" sala="3" director="Angela">
+        <sesiones>
+            <sesion="9:00"/>
+            <sesion="10:00"/>
+            <sesion="11:00"/>
+        </sesiones>
+        <protagonistas>
+            <protagonista="jose"/>
+            <protagonista="Dani"/>
+        </protagonistas>
+    </pelicula>
+    <pelicula resumen="aventura" nombre="x4" sala="4" director="Juan">
+        <sesiones>
+            <sesion="12:00"/>
+            <sesion="13:00"/>
+            <sesion="14:00"/>
+        </sesiones>
+        <protagonistas>
+            <protagonista="Pedro"/>
+            <protagonista="Elisabeth"/>
+        </protagonistas>
+    </pelicula>
+    <pelicula resumen="suspense" nombre="x5" sala="5" director="Miguel">
+        <sesiones>
+            <sesion="15:00"/>
+            <sesion="16:00"/>
+            <sesion="17:00"/>
+        </sesiones>
+        <protagonistas>
+            <protagonista="Esteban"/>
+            <protagonista="Manolo"/>
+        </protagonistas>
+    </pelicula>
+</cartelera>
