@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <cluster>
+        <nodos>
+            <nodo nombre="nodo1" ip="172.16.0.1">
+                <maquina1 nombre="maquina1" sistema="windows10" interfaz="enp0s1" ip="172.16.0.2" mac="255.255.255.0"/>
+                <maquina2 nombre="maquina2" sistema="windows8" interfaz="enp0s2" ip="172.16.0.3" mac="255.255.255.1" interfaz1="enp0s16" ip1="172.16.0.21" mac1="255.255.255.15"/>
+                <maquina3 nombre="maquina3" sistema="windows7" interfaz="enp0s3" ip="172.16.0.4" mac="255.255.255.2"/>
+            </nodo>
+            <nodo nombre="nodo2" ip="172.16.0.5">
+                <maquina1 nombre="maquina1" sistema="ubuntu" interfaz="enp0s4" ip="172.16.0.6" mac="255.255.255.3"/>
+                <maquina2 nombre="maquina2" sistema="linux-mint" interfaz="enp0s5" ip="172.16.0.7" mac="255.255.255.4"/>
+                <maquina3 nombre="maquina3" sistema="kali-linux" interfaz="enp0s6" ip="172.16.0.8" mac="255.255.255.5"/>
+            </nodo>
+            <nodo nombre="nodo3" ip="172.16.0.9">
+                <maquina1 nombre="maquina1" sistema="windowsxp" interfaz="enp0s7" ip="172.16.0.10" mac="255.255.255.6"/>
+                <maquina2 nombre="maquina2" sistema="windows8" interfaz="enp0s8" ip="172.16.0.11" mac="255.255.255.7" interfaz2="enp0s17" ip2="172.16.0.22" mac2="255.255.255.16"/>
+                <maquina3 nombre="maquina3" sistema="windows-vista" interfaz="enp0s9" ip="172.16.0.12" mac="255.255.255.8"/>
+            </nodo>
+            <nodo nombre="nodo4" ip="172.16.0.13">
+                <maquina1 nombre="maquina1" sistema="kubuntu" interfaz="enp0s10" ip="172.16.0.14" mac="255.255.255.9"/>
+                <maquina2 nombre="maquina2" sistema="arch-linux" interfaz="enp0s11" ip="172.16.0.15" mac="255.255.255.10"/>
+                <maquina3 nombre="maquina3" sistema="arch-bang" interfaz="enp0s12" ip="172.16.0.16" mac="255.255.255.11" interfaz3="enp0s18" ip3="172.16.0.23" mac3="255.255.255.17"/>
+            </nodo>
+            <nodo nombre="nodo5" ip="172.16.0.17">
+                <maquina1 nombre="maquina1" sistema="elementary" interfaz="enp0s13" ip="172.16.0.18" mac="255.255.255.12"/>
+                <maquina2 nombre="maquina2" sistema="mint-debian" interfaz="enp0s14" ip="172.16.0.19" mac="255.255.255.13"/>
+                <maquina3 nombre="maquina3" sistema="fedora" interfaz="enp0s15" ip="172.16.0.20" mac="255.255.255.14"/>
+            </nodo>
+        </nodos>
+    </cluster>

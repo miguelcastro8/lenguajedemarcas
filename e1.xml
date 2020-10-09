@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<torneo nombre="torneo tenis" fechainicio="07/10/2020" fechafinal="07/11/2020">
+    <partidos>
+        <partido fechapartido="07/10/2020">
+            <sets>
+                <set1 resultado="7-5"/>
+                <set2 resultado="6-7"/>
+                <set3 resultado="5-7"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="miguel" apellido="perez"/>
+                <jugador nombre="pepe" apellido="muñoz"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="10/10/2020">
+            <sets>
+                <set1 resultado="6-4"/>
+                <set2 resultado="1-6"/>
+                <set3 resultado="2-6"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="manolo" apellido="gutierrez"/>
+                <jugador nombre="angel" apellido="rodriguez"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="13/10/2020">
+            <sets>
+                <set1 resultado="6-2"/>
+                <set2 resultado="6-7"/>
+                <set3 resultado="6-4"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="alvaro" apellido="lamasine"/>
+                <jugador nombre="daniel" apellido="elahi"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="16/10/2020">
+            <sets>
+                <set1 resultado="4-6"/>
+                <set2 resultado="7-5"/>
+                <set3 resultado="6-1"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="sebastian" apellido="ofner"/>
+                <jugador nombre="alekesei" apellido="vatutin"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="19/10/2020">
+            <sets>
+                <set1 resultado="6-1"/>
+                <set2 resultado="2-6"/>
+                <set3 resultado="6-4"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="seteven" apellido="diez"/>
+                <jugador nombre="llia" apellido="ivashka"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="22/10/2020">
+            <sets>
+                <set1 resultado="7-5"/>
+                <set2 resultado="3-6"/>
+                <set3 resultado="6-3"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="pablo" apellido="martinez"/>
+                <jugador nombre="daniel" apellido="masur"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="25/10/2020">
+            <sets>
+                <set1 resultado="6-3"/>
+                <set2 resultado="0-6"/>
+                <set3 resultado="6-4"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="alexandre" apellido="muller"/>
+                <jugador nombre="liam" apellido="broady"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="28/10/2020">
+            <sets>
+                <set1 resultado="6-3"/>
+                <set2 resultado="5-7"/>
+                <set3 resultado="7-6"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="lorenzo" apellido="giustino"/>
+                <jugador nombre="maximilian" apellido="marterer"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="31/10/2020">
+            <sets>
+                <set1 resultado="6-4"/>
+                <set2 resultado="1-6"/>
+                <set3 resultado="2-6"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="lucas" apellido="lacko"/>
+                <jugador nombre="oscar" apellido="otte"/>
+            </jugadores>
+        </partido>
+        <partido fechapartido="03/11/2020">
+            <sets>
+                <set1 resultado="7-5"/>
+                <set2 resultado="6-7"/>
+                <set3 resultado="5-7"/>
+            </sets>
+            <jugadores>
+                <jugador nombre="benjamin"/>
+                <jugador nombre="benjamin" apellido="nakashima"/>
+                <jugador nombre="javier" apellido="ficovich"/>
+            </jugadores>
+        </partido>
+    </partidos>
+</torneo>

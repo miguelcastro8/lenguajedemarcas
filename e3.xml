@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<empresa>
+    <edificios>
+        <edificio1 direccion="av/alemania" numplantas="3">
+            <plantas>
+                <planta1 numero="1" metroscuadrados="90">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="angel" apellidos="gomez" extensiontelefonica="100"/>
+                        <empleado2 puesto="empleado" nombre="javier" apellidos="feijos" extensiontelefonica="101"/>
+                        <empleado3 puesto="empleado" nombre="gorka" apellidos="prados" extensiontelefonica="102"/>
+                        <empleado4 puesto="encargado" nombre="leticia" apellidos="acedo" extensiontelefonica="103"/>
+                        <empleado5 puesto="jefe" nombre="carolina" apellidos="pellicer" extensiontelefonica="104"/>
+                    </empleados>
+                </planta1>
+                <planta2 numero="2" metroscuadrados="50">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="andreea" apellidos="herranz" extensiontelefonica="105"/>
+                        <empleado2 puesto="empleado" nombre="jorge" apellidos="ocaña" extensiontelefonica="106"/>
+                        <empleado3 puesto="empleado" nombre="jaime" apellidos="serrano" extensiontelefonica="107"/>
+                        <empleado4 puesto="encargado" nombre="samuel" apellidos="mariño" extensiontelefonica="108"/>
+                        <empleado5 puesto="jefe" nombre="irene" apellidos="acedo" extensiontelefonica="109"/>
+                    </empleados>
+                </planta2>
+                <planta3 numero="3" metroscuadrados="120">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="rocio" apellidos="minguez" extensiontelefonica="110"/>
+                        <empleado2 puesto="empleado" nombre="maria" apellidos="natividad" extensiontelefonica="111"/>
+                        <empleado3 puesto="empleado" nombre="lola" apellidos="heredia" extensiontelefonica="112"/>
+                        <empleado4 puesto="encargado" nombre="claudio" apellidos="aznar" extensiontelefonica="113"/>
+                        <empleado5 puesto="jefe" nombre="antonio" apellidos="toledo" extensiontelefonica="114"/>
+                    </empleados>
+                </planta3>
+            </plantas>
+        </edificio1>
+        <edificio2 direccion="av/mexico" numplantas="3">
+            <plantas>
+                <planta1 numero="1" metroscuadrados="30">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="florentino" apellidos="quiñones" extensiontelefonica="115"/>
+                        <empleado2 puesto="empleado" nombre="robert" apellidos="macias" extensiontelefonica="116"/>
+                        <empleado3 puesto="empleado" nombre="leo" apellidos="cuenca" extensiontelefonica="117"/>
+                        <empleado4 puesto="encargado" nombre="josu" apellidos="cebrian" extensiontelefonica="118"/>
+                        <empleado5 puesto="jefe" nombre="abel" apellidos="villena" extensiontelefonica="119"/>
+                    </empleados>
+                </planta1>
+                <planta2 numero="2" metroscuadrados="40">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="enma" apellidos="dorado" extensiontelefonica="120"/>
+                        <empleado2 puesto="empleado" nombre="carmen" apellidos="bejarano" extensiontelefonica="121"/>
+                        <empleado3 puesto="empleado" nombre="maria" apellidos="barba" extensiontelefonica="122"/>
+                        <empleado4 puesto="encargado" nombre="noelia" apellidos="pellicer" extensiontelefonica="123"/>
+                        <empleado5 puesto="jefe" nombre="montserrat" apellidos="sanz" extensiontelefonica="124"/>
+                    </empleados>
+                </planta2>
+                <planta3 numero="3" metroscuadrados="60">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="bartolome" apellidos="coll" extensiontelefonica="125"/>
+                        <empleado2 puesto="empleado" nombre="jaume" apellidos="pulido" extensiontelefonica="126"/>
+                        <empleado3 puesto="empleado" nombre="lucas" apellidos="yuste" extensiontelefonica="127"/>
+                        <empleado4 puesto="encargado" nombre="maria" apellidos="caparros" extensiontelefonica="128"/>
+                        <empleado5 puesto="jefe" nombre="dominga" apellidos="llanos" extensiontelefonica="129"/>
+                    </empleados>
+                </planta3>
+            </plantas>
+        </edificio2>
+        <edificio3 direccion="av/argentina" numplantas="3">
+            <plantas>
+                <planta1 numero="1" metroscuadrados="100">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="yaiza" apellidos="casado" extensiontelefonica="305"/>
+                        <empleado2 puesto="empleado" nombre="elizabeth" apellidos="perera" extensiontelefonica="131"/>
+                        <empleado3 puesto="empleado" nombre="maria" apellidos="huerta" extensiontelefonica="132"/>
+                        <empleado4 puesto="encargado" nombre="omar" apellidos="cebrian" extensiontelefonica="133"/>
+                        <empleado5 puesto="jefe" nombre="luisa" apellidos="roig" extensiontelefonica="134"/>
+                    </empleados>
+                </planta1>
+                <planta2 numero="2" metroscuadrados="120">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="gemma" apellidos="ahmed" extensiontelefonica="135"/>
+                        <empleado2 puesto="empleado" nombre="lorenza" apellidos="pelaez" extensiontelefonica="136"/>
+                        <empleado3 puesto="empleado" nombre="sarai" apellidos="montaño" extensiontelefonica="137"/>
+                        <empleado4 puesto="encargado" nombre="arnau" apellidos="roig" extensiontelefonica="138"/>
+                        <empleado5 puesto="jefe" nombre="esteban" apellidos="gracia" extensiontelefonica="139"/>
+                    </empleados>
+                </planta2>
+                <planta3 numero="3" metroscuadrados="80">
+                    <empleados>
+                        <empleado1 puesto="empleado" nombre="ernesto" apellidos="lorenzo" extensiontelefonica="140"/>
+                        <empleado2 puesto="empleado" nombre="martin" apellidos="valdivia" extensiontelefonica="141"/>
+                        <empleado3 puesto="empleado" nombre="carlos" apellidos="osuna" extensiontelefonica="142"/>
+                        <empleado4 puesto="encargado" nombre="esther" apellidos="toro" extensiontelefonica="143"/>
+                        <empleado5 puesto="jefe" nombre="maria" apellidos="manrique" extensiontelefonica="144"/>
+                    </empleados>
+                </planta3>
+            </plantas>
+        </edificio3>
+    </edificios>
+</empresa>
