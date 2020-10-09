@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<centrocomercial>
+    <tiendas>
+        <tienda>
+            <pullandbear nombre="pull and bear" parcelas="2" metroscuadrados="90"/>
+            <encargado nombre="manuel" apellidos="alvarez diaz" tlf="999999999" nss="001-16-9177"/>
+        </tienda>
+        <tienda>
+            <bershka nombre="bershka" parcelas="1" metroscuadrados="45"/>
+            <encargado nombre="pepe" apellidos="jimenez flor" tlf="999999998" nss="261-98-9910"/>
+        </tienda>
+        <tienda>
+            <stradivarius nombre="stradivarius" parcelas="3" metroscuadrados="135"/>
+            <encargado nombre="angela" apellidos="españa hidalgo" tlf="999999997" nss="035-42-3477"/>
+        </tienda>
+        <tienda>
+            <jvz nombre="jvz" parcelas="1" metroscuadrados="45"/>
+            <encargado nombre="manuela" apellidos="diaz ortega" tlf="999999996" nss="546-46-3034"/>
+        </tienda>
+        <tienda>
+            <lego nombre="lego" parcelas="1" metroscuadrados="45"/>
+            <encargado nombre="alvaro" apellidos="mendez rodriguez" tlf="999999995" nss="509-86-6409"/>
+        </tienda>
+        <tienda>
+            <hym nombre="hym" parcelas="3" metroscuadrados="135"/>
+            <encargado nombre="manolo" apellidos="cubero perez" tlf="999999994" nss="522-45-5480"/>
+        </tienda>
+        <tienda>
+            <nike nombre="nike" parcelas="2" metroscuadrados="90"/>
+            <encargado nombre="sheila" apellidos="pereiro villegas" tlf="999999993" nss="518-04-2156"/>
+        </tienda>
+        <tienda>
+            <adidas nombre="adidas" parcelas="2" metroscuadrados="90"/>
+            <encargado nombre="raul" apellidos="diaz castro" tlf="999999992" nss="004-28-8896"/>
+        </tienda>
+        <tienda>
+            <fila nombre="fila" parcelas="1" metroscuadrados="45"/>
+            <encargado nombre="manuel" apellidos="ortega loro" tlf="999999991" nss="517-41-6347"/>
+        </tienda>
+        <tienda>
+            <alvaromoreno nombre="alvaro moreno" parcelas="3" metroscuadrados="135"/>
+            <encargado nombre="eladio" apellidos="carrion errete" tlf="999999990" nss="262-30-9307"/>
+        </tienda>
+    </tiendas>
