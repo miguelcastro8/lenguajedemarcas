@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<libro titulo="la chica de nieve" editorial="suma" numeropaginas="512" autor="javier castillo">
+    <capitulos>
+        <capitulo1 nombre="x" paginainicio="10" paginafinal="37"/>
+        <capitulo2 nombre="x2" paginainicio="38" paginafinal="63"/>
+        <capitulo3 nombre="x3" paginainicio="64" paginafinal="97"/>
+        <capitulo4 nombre="x4" paginainicio="98" paginafinal="125"/>
+        <capitulo5 nombre="x5" paginainicio="126" paginafinal="158"/>
+        <capitulo6 nombre="x6" paginainicio="159" paginafinal="187"/>
+    </capitulos>
+</libro>
