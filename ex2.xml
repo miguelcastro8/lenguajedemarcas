@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ordenador nombre= "pcgaming">
+    <procesador tipo="ryzen 5 3600" fabricante="amd" precio="150">
+        <caracteristicas>
+            <caracteristica nombre="6 nucleos"/>
+            <caracteristica nombre="3.6 GHz"/>
+        </caracteristicas>
+    </procesador>
+    <tarjetagrafica tipo="geforce gtx 1660 6GB" fabricante="gigabyte" precio="225">
+        <caracteristicas>
+            <caracteristica nombre="6 gb GDDR5"/>
+            <caracteristica nombre="12000 mHz"/>
+        </caracteristicas>
+    </tarjetagrafica>
+    <placabase tipo="b450 gaming x" fabricante="gigabyte" precio="90">
+        <caracteristicas>
+            <caracteristica nombre="chipset: AMD b450"/>
+            <caracteristica nombre="4 sockets DDR4"/>
+        </caracteristicas>
+    </placabase>
+    <fuentealimentacion tipo="tx750m" fabricante="corsair" precio="105">
+        <caracteristicas>
+            <caracteristica nombre="750w"/>
+            <caracteristica nombre="80 plus gold eficiencia certificada"/>
+        </caracteristicas>
+    </fuentealimentacion>
+</ordenador>
