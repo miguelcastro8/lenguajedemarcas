@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clase aula="daw1">
+    <profesores>
+        <lenguajedemarcas nombre="Jose Ramon de los santos" correo="prof.jsantos@iesalixar.org"/>
+        <programacion nombre="Chema Garcia Duran" correo="prof.jduran@iesalixar.org"/>
+        <basededatos nombre="Maria de los reyes montes escalante" correo="prof.reyesmontes@iesalixar.org"/>
+        <entornodeldesarrollo nombre="Maria de los reyes montes escalante" correo="prof.reyesmontes@iesalixar.org"/>
+        <sistemasinformaticos nombre="Santiago Alberto Cubillana de la Cruz" correo="prof.salberto@iesalixar.org"/>
+        <fol nombre="elena clementina flores galea" correo="prof.eclementina@iesalixar.org"/>
+    </profesores>
+    <horario>
+        <Lunes>
+            <primerahora nombre="prog"/>
+            <segundahora nombre="prog"/>
+            <tercerahora nombre="prog"/>
+            <cuartahora nombre="sistemas informaticos"/>
+            <quintahora nombre="sistemas informaticos"/>
+            <sextahora nombre="fol"/>
+        </Lunes>
+        <martes>
+            <primerahora nombre="base de datos"/>
+            <segundahora nombre="base de datos"/>
+            <tercerahora nombre="base de datos"/>
+            <cuartahora nombre="entorno del dessarrollo"/>
+            <quintahora nombre="entorno del desarrollo"/>
+            <sextahora nombre="lenguaje de marcas"/>
+        </martes>
+        <miercoles>
+            <primerahora nombre="lenguaje de marcas"/>
+            <segundahora nombre="lenguaje de marcas"/>
+            <tercerahora nombre="programacion"/>
+            <cuartahora nombre="programacion"/>
+            <quintahora nombre="sistemas informaticos"/>
+            <sextahora nombre="sistemas informaticos"/>
+        </miercoles>
+        <jueves>
+            <primerahora nombre="lenguaje de marcas"/>
+            <segundahora nombre="programacion"/>
+            <tercerahora nombre="programacion"/>
+            <cuartahora nombre="programacion"/>
+            <quintahora nombre="fol"/>
+            <sextahora nombre="fol"/>
+        </jueves>
+        <viernes>
+            <primerahora nombre="entorno del desrrollo"/>
+            <segundahora nombre="base de datos"/>
+            <tercerahora nombre="base de datos"/>
+            <cuartahora nombre="base de datos"/>
+            <quintahora nombre="sistemas informaticos"/>
+            <sextahora nombre="sistemas informaticos"/>
+        </viernes>
+    </horario>
+</clase>
+        
