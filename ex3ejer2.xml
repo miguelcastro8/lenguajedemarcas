@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concesionario>
+    <marcas nombre="mercedes" pais="alemania">
+        <coches modelo="cla 200" matricula="0000aaa" añomatricula="2017" numerodeplazas="5" cc="1500cc"/>
+        <coches modelo="amg a45" matricula="0001bbb" añomatricula="2018" numerodeplazas="5" cc="2000cc"/>
+    </marcas>
+    <marcas nombre="bmw" pais="alemania">
+        <coches modelo="m4" matricula="0002ccc" añomatricula="2015" numerodeplazas="5" cc="3000cc"/>
+        <coches modelo="318d" matricula="0003ddd" añomatricula="2018" numerodeplazas="5" cc="1500cc"/>
+    </marcas>
+    <marcas nombre="lamborghini" pais="italia">
+        <coches modelo="aventador" matricula="0004eee" añomatricula="2016" numerodeplazas="2" cc="3000cc"/>
+        <coches modelo="gallardo" matricula="0005fff" añomatricula="2000" numerodeplazas="2" cc="2000cc"/>
+    </marcas>
+    <marcas nombre="nissan" pais="japon">
+        <coches modelo="gtr r35" matricula="0006ggg" añomatricula="2020" numerodeplazas="2" cc="3000cc"/>
+        <coches modelo="gtr r34 skyline" matricula="0007hhh" añomatricula="1997" numerodeplazas="2" cc="4000cc"/>
+    </marcas>
+    <marcas nombre="toyota" pais="japon">
+        <coches modelo="supra mk4" matricula="0008iii" añomatricula="1995" numerodeplazas="2" cc="4000cc"/>
+        <coches modelo="avensis" matricula="0009jjj" añomatricula="2018" numerodeplazas="5" cc="700cc"/>
+    </marcas>
+</concesionario>
