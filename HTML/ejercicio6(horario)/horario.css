@@ -1,0 +1,48 @@
+table{
+    border: solid black;
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    margin-top: 130px;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+.prog{
+    background-color: rgb(229, 255, 0);
+}
+
+.si{
+    background-color: rgb(194, 76, 76);
+}
+
+.fol{
+    background-color: greenyellow;
+}
+
+.endes{
+    background-color: red;
+}
+
+.base{
+    background-color: sandybrown;
+}
+
+.lm{
+    background-color: rgb(88, 193, 235);
+}
+
+.horas{
+    background-color: coral;
+}
+
+.arriba{
+    background-color: cornflowerblue;
+}
