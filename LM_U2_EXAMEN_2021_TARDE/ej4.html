@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ejercicio4</title>
+        <style>
+            p{
+                color: red;
+            }
+            legend{
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>reservation Request</h1>
+        <form>
+            <fieldset>
+                <legend style="background-color: white">General information</legend>
+                <table>
+                    <tr>
+                        <td><label for="date">Arrival Date:</label></td>
+                        <td><input type="date" name="date"/></td>
+                        <td><p>Arrival date is invalid</p></td>
+                    </tr>
+                    <tr>
+                        <td><label for="nights">Nights:</label></td>
+                        <td><input type="text" name="Nights"/></td>
+                        <td><p>Nights must be a number</p></td>
+                    </tr>
+                    <tr>
+                        <td><label for="Adults">Adults:</label></td>
+                        <td>
+                            <select>
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="Children">Children:</label></td>
+                        <td>
+                            <select>
+                                <option>0</option>
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend style="background-color: white">Preferences</legend>
+                <table>
+                    <tr>
+                        <td><label for="Room">Room type:</label></td>
+                        <td><input type="radio"/>Standard</td>
+                        <td><input type="radio"/>Business</td>
+                        <td><input type="radio"/>Suite</td>
+                    </tr>
+                    <tr>
+                        <td><label for="Bed">Bed type:</label></td>
+                        <td><input type="radio"/>King</td>
+                        <td><input type="radio"/>Double Double</td>
+                    </tr>
+                    <tr>
+                        <td><input type="radio"/>Smoking</td>
+                    </tr>
+                </table>
+            </fieldset>
+            <fieldset>
+                <legend style="background-color: white">Contact information</legend>
+                <table>
+                    <tr>
+                        <td><label for="Name">Name:</label></td>
+                        <td><input type="text" name="Name"/></td>
+                        <td><p>Name is required</p></td>
+                    </tr>
+                    <tr>
+                        <td><label for="email">email:</label></td>
+                        <td><input type="text" name="emai" required/></td>
+                        <td><p>Email address is invalid</p></td>
+                    </tr>
+                    <tr>
+                        <td><label for="phone">phone:</label></td>
+                        <td><input type="text" name="phone"/></td>
+                        <td><p>Phone number is invalid</p></td>
+                    </tr>
+                </table>
+            </fieldset>
+            <p>
+                <input type="submit" value="Submit reservation"/>
+                <input type="submit" value="clear"/>
+            </p>
+        </form>
+    </body>
+</html>
