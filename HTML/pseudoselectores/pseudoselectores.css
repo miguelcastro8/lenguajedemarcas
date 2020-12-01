@@ -27,10 +27,13 @@ thead th:last-child:hover{
 tbody td:last-child:hover{
     font-size: 2em;
 }
+tbody th:last-child:hover{
+    font-size: 2em;
+}
 thead th::first-letter{
     font-size: 2em;
 }
-input:first-child{
+input:first-of-type{
     border: 1px red solid;
 }
 label::after{
