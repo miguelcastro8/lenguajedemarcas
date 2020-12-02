@@ -1,0 +1,5 @@
+En la versión inglesa (poema.html), ¿por qué los últimos 5 párrafos se muestran de forma diferente que los 2 primeros?
+
+-Esto ocurriria debido a que la clase "verse" no estaba aplicada a todos los parrafos, 
+una vez la aplicamos vemos como se cambia el estiloy se les añade a los parrafos un 
+color marron y un margen a la izquierda de 60px.

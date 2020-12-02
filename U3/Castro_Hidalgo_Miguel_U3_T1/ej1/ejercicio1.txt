@@ -1,0 +1,14 @@
+El primer estilo se le implementa a la etiqueta body y su funcion en este caso es 
+cambiar el color de fondo de la pagina, En el segundo estilo le aplicamos a todas
+las etiquetas h1 del html un color maroon y le cambiamos el tamaño de la fuente
+a 20pt, a todas las etiquetas hr les aplicaremos un estilo que le cambia el color, 
+el color seleccionado es el color navy, a todos los parrafos de texto del html les
+aplicaremos un estilo en el que le cambiaremos el tamaño de la fuente a 12pt y le
+añadiremos un margen a la izquierda de 15px, ademas a cada parrado le añadiremos 
+una clase llamada "verse" la cual cambia el estilo del parrafo cambiandole el 
+color de la letra a maroon y un margen a la izquierda de 60px, por ultimo a los
+links les añadiremos un estilo para que cuando se vean en la pagina tengan un 
+color verde, cuando los visitemos les cambie el color a amarillo, cuando pasemos
+por encima con el puntero del raton y con el pseudoselector hover conseguiremos
+que se cambie a color negro, por ultimo con el pseudoselector active conseguiremos
+que cuando el link este activo se ponga de color azul.
