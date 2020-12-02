@@ -1,0 +1,42 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+tbody td:first-child{
+    background-color: green;
+}
+tbody th:first-of-type{
+    background-color: yellow;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: green;
+}
+a:visited{
+    color: red;
+}
+thead th:last-child:hover{
+    font-size: 2em;
+}
+tbody td:last-child:hover{
+    font-size: 2em;
+}
+tbody th:last-child:hover{
+    font-size: 2em;
+}
+thead th::first-letter{
+    font-size: 2em;
+}
+input:first-of-type{
+    border: 1px red solid;
+}
+label::after{
+    content: "*";
+    color: red;
+}
